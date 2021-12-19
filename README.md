@@ -1,1 +1,1 @@
-Making a push to remote server
+Making pull from remote server
